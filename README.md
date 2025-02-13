@@ -1,12 +1,12 @@
-# Hi there, I'm Deepak Prabhu! 👋
+# Hi there, I'm prabhufrances! 👋
 
-I'm a passionate software developer with a keen interest in open-source projects, cloud computing, and web development. I love to learn, share knowledge, and collaborate with other developers around the world.
+I'm a passionate software developer with a keen interest in open-source projects, App development, and web development. I love to learn, share knowledge, and collaborate with other developers around the world.
 
 ## 🚀 Skills and Technologies
 
-- **Languages:** JavaScript, TypeScript, Python, Java, C++
-- **Frontend:** React, Angular, Vue.js, HTML5, CSS3, SASS
-- **Backend:** Node.js, Express, Django, Spring Boot
+- **Languages:** JavaScript, Python, flutter, Dart
+- **Frontend:** React, HTML5, CSS3, SASS
+- **Backend:** Node.js, Express, Django
 - **Databases:** MongoDB, MySQL, PostgreSQL
 - **DevOps:** Docker, Kubernetes, Jenkins, GitHub Actions
 - **Cloud Platforms:** AWS, Azure, Google Cloud
@@ -20,23 +20,23 @@ I'm a passionate software developer with a keen interest in open-source projects
 
 ## 🌱 Currently Learning
 
-- Rust programming language
+- Flutter programming language
 - Advanced Kubernetes configurations
 - Machine Learning with TensorFlow and PyTorch
 
 ## 📈 GitHub Stats
 
-![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=dprabhufrances&show_icons=true&theme=radical)
+![prabhufrances GitHub stats](https://github-readme-stats.vercel.app/api?username=dprabhufrances&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
 
-- **Email:** [deepak@example.com](mailto:deepak@example.com)
-- **LinkedIn:** [Deepak Prabhu](https://linkedin.com/in/deepak-prabhu)
+- **Email:** [deepak@example.com](mailto:prabhufrances@example.com)
+- **LinkedIn:** [Deepak Prabhu](https://linkedin.com/in/prabhufrances)
 - **Twitter:** [@dprabhufrances](https://twitter.com/dprabhufrances)
 
 ## 🌐 Personal Website
 
-[deepakprabhu.dev](https://deepakprabhu.dev)
+[prabhufrances.dev](https://prabhufrances.dev)
 
 ## 💬 Let's Connect!
 
